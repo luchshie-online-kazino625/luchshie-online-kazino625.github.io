@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://luchshie-online-kazino625.github.io/sitemap.xml
